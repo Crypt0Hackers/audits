@@ -3,7 +3,7 @@
 ### If you would like to receive security consultation from us, feel free to reach out here:
 
 -   EMAIL: okolobiam@gmail.com 
--   Twitter: @amaechieth
+-   TWITTER: [@amaechieth](https://twitter.com/AmaechiEth)
 
 ## Public Findings
 
