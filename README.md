@@ -3,9 +3,13 @@
 ### If you would like to receive security consultation from us, feel free to reach out here:
 
 -   EMAIL: okolobiam@gmail.com 
--   TWITTER: [@amaechieth](https://twitter.com/AmaechiEth)
+-   TWITTER: [@amaechieth](https://twitter.com/AmaechiEth) && [@tettehnetworks](https://twitter.com/TettehNetworks)
 
 ## Public Findings
+
+- (**Medium Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
+
+- (**Medium Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
 
 - (**High Severity**) Code4rena - Rabbithole 1/23 ***Waiting for report publication***
 
