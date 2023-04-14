@@ -9,9 +9,9 @@
 
 - (**High Severity**) [Sherlock - Kairos 3/23](https://github.com/sherlock-audit/2023-02-kairos-judging/tree/main/026-H)
 
-- (**Medium Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
+- (**Low Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
 
-- (**Medium Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
+- (**Low Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
 
 - (**High Severity**) Code4rena - Rabbithole 1/23 ***Waiting for report publication***
 
