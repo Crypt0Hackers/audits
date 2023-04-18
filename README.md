@@ -7,7 +7,7 @@
 
 ## Public Findings
 
-- (**High Severity**) [Sherlock - Kairos 3/23](https://github.com/sherlock-audit/2023-02-kairos-judging/tree/main/026-H)
+- (**High Severity**) [Sherlock - Kairos 3/23]([https://github.com/sherlock-audit/2023-02-kairos-judging/tree/main/026-H](https://github.com/sherlock-audit/2023-02-kairos-judging/blob/main/026-H/040.md))
 
 - (**Low Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
 
