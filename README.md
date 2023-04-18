@@ -9,11 +9,11 @@
 
 - (**High Severity**) [Sherlock - Kairos 3/23](https://github.com/sherlock-audit/2023-02-kairos-judging/issues/40)
 
-- (**Low Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
+- (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-03-wenwin-findings/issues/81)
 
-- (**Low Severity**) Code4rena - Wenwin 3/23 ***Waiting for report publication***
+- (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/225)
 
-- (**High Severity**) Code4rena - Rabbithole 1/23 ***Waiting for report publication***
+- (**High Severity**) [Code4rena - Rabbithole 1/23](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/225)
 
 - (**Medium Severity**)[ Code4rena - Tigris 12/22](https://github.com/code-423n4/2022-12-tigris-findings/issues/280)
 
