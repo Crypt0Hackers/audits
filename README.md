@@ -21,4 +21,4 @@
 
 ## Private Audits
 
-- [1Club - NFT Memberships & Payment Plans - 01/23](https://0xthirdeye.xyz/wp-content/uploads/2023/01/1Club-Security-Review-Case-Study-0xThirdEye.pdf) 
+- [1Club Coming Soon!]()
