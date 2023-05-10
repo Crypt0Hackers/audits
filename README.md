@@ -9,8 +9,6 @@
 
 - (**Medium Severity**) [Code4rena - Asymmetry 3/23 **waiting for report publication**]()
 
-- (**High Severity**) [Sherlock - Kairos 3/23](https://github.com/sherlock-audit/2023-02-kairos-judging/issues/40)
-
 - (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-03-wenwin-findings/issues/81)
 
 - (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/225)
