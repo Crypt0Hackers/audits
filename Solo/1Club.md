@@ -64,9 +64,10 @@ The following smart contracts were in scope of the audit:
 
 The following number of issues were found, categorized by their severity:
 
-- Critical & High: x issues
-- Medium: x issues
-- Low: x issues
+- Critical & High: 3 issues
+- Medium: 4 issues
+- Low: 0 issues
+- Informational: 10 issues
 
 ---
 
