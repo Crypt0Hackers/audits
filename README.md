@@ -21,4 +21,4 @@
 
 ## Private Audits
 
-- [1Club **waiting for mitigiations**]()
+- [1Club](https://github.com/Crypt0Hackers/audits/blob/main/Solo/1Club.md)
