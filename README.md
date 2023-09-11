@@ -21,8 +21,10 @@ You can also request a quote via my [Code4rena profile](https://code4rena.com/@a
 | RabbitHole Quest Protocol                                             | Code4rena | amaechieth       | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608)                               |
 | Chainlink Cross Chain Services: CCIP and ARM Network                  | Code4rena | amaechieth       | **Private**                                                                                              |
 | **TOP 10** Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies | Code4rena | amaechieth | **Private**                                                                                            |
-| Arcade-XYZ                                                            | Code4rena | UniversalCrypto  | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528)     
-
+| Arcade-XYZ                                                            | Code4rena | UniversalCrypto  | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528)   
+| Tigris                                                            | Code4rena | UniversalCrypto  | [Link](https://github.com/code-423n4/2022-12-tigris-findings/issues/280)     
+| Escher                                                            | Code4rena | UniversalCrypto  | [Link](https://github.com/code-423n4/2022-12-escher-findings/issues/107)
+ 
 # Private Audits
 | Client                                                               | Description                                                                                                                         | Report                                                                                                                          |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
