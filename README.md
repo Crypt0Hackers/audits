@@ -15,13 +15,13 @@ For private audit or security consulting requests please reach out to Amaechi vi
 You can also request a quote via my [Code4rena profile](https://code4rena.com/@amaechieth) to engage Code4rena as an intermediary.  
 
 # Competitive Audits
-| Contest                                                                                                                                                                                            | Platform  | Alias            | Report                                                                                                                                                   |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RabbitHole Quest Protocol | Code4rena  | amaechieth     | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608) |     
-| Chainlink Cross Chain Services: CCIP and ARM Network | Code4rena | amaechieth | **Private** |
-| **TOP 10** Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies | Code4rena | amaechieth | **Private** |
-| Arcade-XYZ | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528) |
 
+| Contest                                                              | Platform  | Alias            | Report                                                                                                   |
+|----------------------------------------------------------------------|-----------|------------------|----------------------------------------------------------------------------------------------------------|
+| RabbitHole Quest Protocol                                             | Code4rena | amaechieth       | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608)                               |
+| Chainlink Cross Chain Services: CCIP and ARM Network                  | Code4rena | amaechieth       | **Private**                                                                                              |
+| **TOP 10** Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies | Code4rena | amaechieth | **Private**                                                                                            |
+| Arcade-XYZ                                                            | Code4rena | UniversalCrypto  | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528)     
 
 # Private Audits
 | Client                                                               | Description                                                                                                                         | Report                                                                                                                          |
