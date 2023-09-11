@@ -1,24 +1,31 @@
-# Crypt0Hackers Security Audits, Research & Public Findings
+# Audit Portfolio - Crypt0Hackers ( [AmaechiETH](https://twitter.com/AmaechiEth) && [TettehNetworks](https://twitter.com/Tettehnetworks))
+- [About Crypt0Hackers](#about-crypt0hackers)
+- [Competitive Audits](#competitive-audits)
+- [Private Audits](#private-audits)
 
-### If you would like to receive security consultation from us, feel free to reach out here:
+# About Crypt0hackers
+Competitive auditors on [Code4rena](https://code4rena.com/) 
 
--   EMAIL: okolobiam@gmail.com 
--   TWITTER: [@amaechieth](https://twitter.com/AmaechiEth) && [@tettehnetworks](https://twitter.com/TettehNetworks)
+Aliases: amaechieth / UniversalCrypto / tettehnetworks
 
-## Public Findings
+Certified [Chainlink Developer Experts](https://twitter.com/chainlink/status/1697715962789728643)
 
-- (**Medium Severity**) [Code4rena - Asymmetry 3/23 **waiting for report publication**]()
+For private audit or security consulting requests please reach out to Amaechi via **Twitter** ([@amaechieth](https://twitter.com/AmaechiEth)) or **Discord** (amaechieth).  
 
-- (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-03-wenwin-findings/issues/81)
+You can also request a quote via my [Code4rena profile](https://code4rena.com/@amaechieth) to engage Code4rena as an intermediary.  
 
-- (**QA Severity**) [Code4rena - Wenwin 3/23](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/225)
+# Competitive Audits
+| Contest                                                                                                                                                                                            | Platform  | Alias            | Report                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | --------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RabbitHole Quest Protocol | Code4rena  | amaechieth     | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608) |     
+| Chainlink Cross Chain Services: CCIP and ARM Network | Code4rena | amaechieth | **Private** |
+| **TOP 10** Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies | Code4rena | amaechieth | **Private** |
+| Arcade-XYZ | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528) |
 
-- (**High Severity**) [Code4rena - Rabbithole 1/23](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/225)
 
-- (**Medium Severity**)[ Code4rena - Tigris 12/22](https://github.com/code-423n4/2022-12-tigris-findings/issues/280)
+# Private Audits
+| Client                                                               | Description                                                                                                                         | Report                                                                                                                          |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [1Club](https://twitter.com/the1clubofcl)                               | Invite-Only Club Utilising Web3 & Lifetime Membership via NFT                                                      | [Link](https://github.com/Crypt0Hackers/audits/blob/main/Solo/1Club.md)                                             |
 
-- (**Medium Severity**)[ Code4rena - Escher 12/22](https://github.com/code-423n4/2022-12-escher-findings/issues/107)
 
-## Private Audits
-
-- [1Club](https://github.com/Crypt0Hackers/audits/blob/main/Solo/1Club.md)
