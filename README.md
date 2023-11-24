@@ -1,4 +1,4 @@
-# Audit Portfolio - Crypt0Hackers ( [AmaechiETH](https://twitter.com/AmaechiEth) && [TettehNetworks](https://twitter.com/Tettehnetworks))
+# Audit Portfolio - Crypt0Hackers [AmaechiETH](https://twitter.com/AmaechiEth) 
 - [About Crypt0Hackers](#about-crypt0hackers)
 - [Competitive Audits](#competitive-audits)
 - [Private Audits](#private-audits)
@@ -6,11 +6,11 @@
 # About Crypt0hackers
 Competitive auditors on [Code4rena](https://code4rena.com/) 
 
-Aliases: amaechieth / UniversalCrypto / tettehnetworks
+Aliases: amaechieth / UniversalCrypto 
 
-Certified [Chainlink Developer Experts](https://twitter.com/chainlink/status/1697715962789728643)
+Certified [Chainlink Developer Expert](https://twitter.com/chainlink/status/1697715962789728643)
 
-For private audit or security consulting requests please reach out to Amaechi via **Twitter** ([@amaechieth](https://twitter.com/AmaechiEth)) or **Discord** (amaechieth).  
+For private audit or security consulting requests please reach out to Amaechi via **Twitter** ([@amaechieth](https://twitter.com/AmaechiEth)) 
 
 You can also request a quote via my [Code4rena profile](https://code4rena.com/@amaechieth) to engage Code4rena as an intermediary.  
 
