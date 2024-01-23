@@ -30,19 +30,20 @@ You can also request a quote via my [Code4rena profile](https://code4rena.com/@a
 
 # Competitive Audits
 
-| Contest                                                                                                        | Platform  | Alias           | Report                                                                       |
-| -------------------------------------------------------------------------------------------------------------- | --------- | --------------- | ---------------------------------------------------------------------------- |
-| Chainlink Cross Chain Services: CCIP and ARM Network                                                           | Code4rena | AmaechiETH      | **Private**                                                                  |
-| **TOP 10**: Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies | Code4rena | AmaechiETH      | **Private**                                                                  |
-| Chainlink Staking v0.2                                                                                         | Code4rena | AmaechiETH      | **Private**                                                                  |
-| Axelar Netowrk - InterchainProposalExecutor.sol doesn't support non-evm address as caller or sender            | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/25)      |
-| Axelar Network - Proposal requiring native coin transfers cannot be executed                                   | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/319)     |
-| RabbitHole - Bad implementation in minter access control for RabbitHoleReceipt and RabbitHoleTickets contracts | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608) |
-| Arcade-XYZ - Incorrect accounting in GSC approval mechanism in ArcadeTreasury                                  | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528)     |
-| Tigris - Approved Spenders can't use function initiateMarketOrder                                              | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2022-12-tigris-findings/issues/280)     |
-| Escher - potential overflow with amount parameter may have unintended effects                                  | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2022-12-escher-findings/issues/107)     |
-| NextGen - Attacker can drain all ETH from AuctionDemo when block.timestamp == auctionEndTime                   | Code4rena | AmaechiEth      | [Link](https://github.com/code-423n4/2023-10-nextgen-findings/issues/1323)   |
-| NextGen - Auction winner can prevent payments via safeTransferFrom callback                                    | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-10-nextgen-findings/issues/739)    |
+| Contest                                                                                                                                   | Platform  | Alias           | Report                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------- | ---------------------------------------------------------------------------- |
+| Chainlink Cross Chain Services: CCIP and ARM Network                                                                                      | Code4rena | AmaechiETH      | **Private**                                                                  |
+| **TOP 10**: Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies                            | Code4rena | AmaechiETH      | **Private**                                                                  |
+| Chainlink Staking v0.2                                                                                                                    | Code4rena | UniversalCrypto | **Private**                                                                  |
+| Axelar Netowrk - InterchainProposalExecutor.sol doesn't support non-evm address as caller or sender                                       | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/25)      |
+| Axelar Network - Proposal requiring native coin transfers cannot be executed                                                              | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/319)     |
+| RabbitHole - Bad implementation in minter access control for RabbitHoleReceipt and RabbitHoleTickets contracts                            | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608) |
+| Arcade-XYZ - Incorrect accounting in GSC approval mechanism in ArcadeTreasury                                                             | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-arcade-findings/issues/528)     |
+| Tigris - Approved Spenders can't use function initiateMarketOrder                                                                         | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2022-12-tigris-findings/issues/280)     |
+| Escher - potential overflow with amount parameter may have unintended effects                                                             | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2022-12-escher-findings/issues/107)     |
+| NextGen - Attacker can drain all ETH from AuctionDemo when block.timestamp == auctionEndTime                                              | Code4rena | AmaechiEth      | [Link](https://github.com/code-423n4/2023-10-nextgen-findings/issues/1323)   |
+| NextGen - Auction winner can prevent payments via safeTransferFrom callback                                                               | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-10-nextgen-findings/issues/739)    |
+| Asymmetry - Division before multiplication truncate minOut and incurs heavy precision loss and result in insufficient slippage protection | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-03-asymmetry-findings/issues/1078) |
 
 # Private Audits
 
