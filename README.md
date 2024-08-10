@@ -8,15 +8,14 @@
 
 Aliases: amaechieth / UniversalCrypto
 
-Certified [Chainlink Developer Expert](https://twitter.com/chainlink/status/1697715962789728643)
+Software Engineer @ Chainlink Labs
 
 For private audit or security consulting requests please reach out to Amaechi via **Twitter** ([@amaechieth](https://twitter.com/AmaechiEth))
-
-You can also request a quote via my [Code4rena profile](https://code4rena.com/@amaechieth) to engage Code4rena as an intermediary.
 
 # Protocols Secured
 
 - Chainlink
+- Olas
 - Axelar Network
 - Arcarde.xyz
 - Escher
@@ -35,6 +34,7 @@ You can also request a quote via my [Code4rena profile](https://code4rena.com/@a
 | Chainlink Cross Chain Services: CCIP and ARM Network                                                                                      | Code4rena | AmaechiETH      | **Private**                                                                  |
 | **TOP 10**: Chainlink Cross-Chain Contract Administration: Multi-signature Contract, Timelock and Call Proxies                            | Code4rena | AmaechiETH      | **Private**                                                                  |
 | Chainlink Staking v0.2                                                                                                                    | Code4rena | UniversalCrypto | **Private**                                                                  |
+| Olas                                                                                                                                      | Cantina   | AmaechiETH      | **Private**                                                                  |
 | Axelar Netowrk - InterchainProposalExecutor.sol doesn't support non-evm address as caller or sender                                       | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/25)      |
 | Axelar Network - Proposal requiring native coin transfers cannot be executed                                                              | Code4rena | UniversalCrypto | [Link](https://github.com/code-423n4/2023-07-axelar-findings/issues/319)     |
 | RabbitHole - Bad implementation in minter access control for RabbitHoleReceipt and RabbitHoleTickets contracts                            | Code4rena | AmaechiETH      | [Link](https://github.com/code-423n4/2023-01-rabbithole-findings/issues/608) |
